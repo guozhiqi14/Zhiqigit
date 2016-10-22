@@ -5,6 +5,7 @@
 #Git tracks changes of files.
 #Creating a new branch is quick and simple.
 #Git can make branches with no ff.
+#test difference between ff and no-ff.
 
 
 #!/usr/bin/env python
