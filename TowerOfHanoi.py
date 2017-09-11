@@ -1,4 +1,5 @@
 #-*- coding:utf-8 -*-
+
 def mov(n,A,B,C):
     if n== 1:
         print(A,'->',B)
